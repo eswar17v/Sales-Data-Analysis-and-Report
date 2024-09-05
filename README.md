@@ -1,14 +1,14 @@
 # Sales-Data-Analysis-and-Report
 ## Project Overview
 
-This project focuses on analyzing sales data to generate comprehensive reports that provide actionable insights for business growth. The analysis was conducted using Excel's powerful tools, including Pivot Tables, Power Query, and DAX, to offer strategic recommendations for optimizing sales performance and expanding market reach.
+This project focuses on analyzing sales data to generate comprehensive reports that provide actionable insights for business growth. The analysis was conducted using Excel's powerful tools, including Pivot Tables and DAX, to offer strategic recommendations for optimizing sales performance and expanding market reach.
 
 ## Key Features
 
 1. Sales Data Analysis
    
 Pivot Tables: Utilized Excel pivot tables to summarize and analyze sales data across various dimensions such as products, regions, and time periods.
-Power Query: Employed Power Query to clean, transform, and load data, ensuring that the data was in a suitable format for analysis.
+Data preprocessing: clean, transform, and load data, ensuring that the data was in a suitable format for analysis.
 DAX (Data Analysis Expressions): Applied DAX formulas to perform more complex calculations and to create measures for deeper insights into sales performance.
 
 2. Actionable Insights
@@ -27,8 +27,6 @@ Strategic Recommendations: Provided actionable insights and recommendations for 
 - Microsoft Excel
 
 - Pivot Tables
-
-- Power Query
 
 - DAX (Data Analysis Expressions)
 
