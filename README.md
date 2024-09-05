@@ -24,15 +24,13 @@ Strategic Recommendations: Provided actionable insights and recommendations for 
 
 ## Tools and Technologies Used
 
-Microsoft Excel
+- Microsoft Excel
 
-Pivot Tables
+- Pivot Tables
 
-Power Query
+- Power Query
 
-DAX (Data Analysis Expressions)
-
-Data Visualization: Excel charts and graphs for visual representation of sales trends and metrics.
+- DAX (Data Analysis Expressions)
 
 ## How to Use
 
